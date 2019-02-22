@@ -1,0 +1,8 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/.idea
+/*.iml
+/logPath_IS_UNDEFINED/
+／**／generatorConfig.xml
